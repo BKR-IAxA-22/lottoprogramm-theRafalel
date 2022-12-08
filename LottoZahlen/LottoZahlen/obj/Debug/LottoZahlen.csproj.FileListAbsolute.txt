@@ -1,0 +1,11 @@
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.csproj.AssemblyReference.cache
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.csproj.SuggestedBindingRedirects.cache
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.Form1.resources
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.Properties.Resources.resources
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.csproj.GenerateResource.cache
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.csproj.CoreCompileInputs.cache
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\bin\Debug\LottoZahlen.exe.config
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\bin\Debug\LottoZahlen.exe
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\bin\Debug\LottoZahlen.pdb
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.exe
+C:\Users\gibii\OneDrive\Desktop\Prossecing git\Clac\lottoprogramm-theRafalel\LottoZahlen\LottoZahlen\obj\Debug\LottoZahlen.pdb
